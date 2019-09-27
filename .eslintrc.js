@@ -61,5 +61,6 @@ module.exports = {
       ],
       "depth": 3,
     }],
+    "no-console": ["error", {allow: ["tron"]}]
   },
 };
